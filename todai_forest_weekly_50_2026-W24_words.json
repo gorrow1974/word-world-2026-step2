@@ -1,0 +1,505 @@
+{
+  "weekLabel": "2026-W24",
+  "words": [
+    {
+      "id": 1,
+      "word": "create",
+      "meaning": "を創り出す；を引き起こす",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "生成・発生",
+      "variableLayer": "action-core"
+    },
+    {
+      "id": 2,
+      "word": "increase",
+      "meaning": "増加する；を増やす",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "増加・変化",
+      "variableLayer": "change"
+    },
+    {
+      "id": 3,
+      "word": "improve",
+      "meaning": "を向上させる；よくなる",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "改善・上昇",
+      "variableLayer": "change-positive"
+    },
+    {
+      "id": 4,
+      "word": "mean",
+      "meaning": "を意味する；つもりである",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "意味・意図",
+      "variableLayer": "meaning-intention"
+    },
+    {
+      "id": 5,
+      "word": "own",
+      "meaning": "を所有している；認める",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "所有・承認",
+      "variableLayer": "state-possession"
+    },
+    {
+      "id": 6,
+      "word": "include",
+      "meaning": "を含む",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "包含",
+      "variableLayer": "container"
+    },
+    {
+      "id": 7,
+      "word": "consider",
+      "meaning": "を見なす；について考える",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "判断・思考",
+      "variableLayer": "cognition"
+    },
+    {
+      "id": 8,
+      "word": "allow",
+      "meaning": "を許す；を与える；考慮に入れる",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "許可・余地",
+      "variableLayer": "permission"
+    },
+    {
+      "id": 9,
+      "word": "suggest",
+      "meaning": "を提案する；を暗示する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "提案・示唆",
+      "variableLayer": "communication"
+    },
+    {
+      "id": 10,
+      "word": "produce",
+      "meaning": "を生産する；を取り出す",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "産出",
+      "variableLayer": "output"
+    },
+    {
+      "id": 11,
+      "word": "decide",
+      "meaning": "を決める；に決着をつける",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "決定",
+      "variableLayer": "decision"
+    },
+    {
+      "id": 12,
+      "word": "offer",
+      "meaning": "を提供する，申し出る",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "提供・申し出",
+      "variableLayer": "exchange"
+    },
+    {
+      "id": 13,
+      "word": "require",
+      "meaning": "を要求する；を必要とする",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "要求・必要",
+      "variableLayer": "necessity"
+    },
+    {
+      "id": 14,
+      "word": "share",
+      "meaning": "を共有する；を分担する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "共有・分担",
+      "variableLayer": "relation"
+    },
+    {
+      "id": 15,
+      "word": "store",
+      "meaning": "を保存する；を蓄える",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "保存・蓄積",
+      "variableLayer": "storage"
+    },
+    {
+      "id": 16,
+      "word": "tend",
+      "meaning": "傾向がある；を世話する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "傾向・世話",
+      "variableLayer": "tendency"
+    },
+    {
+      "id": 17,
+      "word": "concern",
+      "meaning": "心配させる；関係する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "関係・心配",
+      "variableLayer": "relation-emotion"
+    },
+    {
+      "id": 18,
+      "word": "describe",
+      "meaning": "について述べる，を説明する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "説明・描写",
+      "variableLayer": "communication"
+    },
+    {
+      "id": 19,
+      "word": "involve",
+      "meaning": "を関与させる；を伴う",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "関与・内包",
+      "variableLayer": "participation"
+    },
+    {
+      "id": 20,
+      "word": "reduce",
+      "meaning": "を減らす；を変える",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "減少・縮小",
+      "variableLayer": "change-negative"
+    },
+    {
+      "id": 21,
+      "word": "design",
+      "meaning": "を設計する；を計画する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "設計・計画",
+      "variableLayer": "planning"
+    },
+    {
+      "id": 22,
+      "word": "force",
+      "meaning": "に強いる；を強要する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "強制",
+      "variableLayer": "control"
+    },
+    {
+      "id": 23,
+      "word": "limit",
+      "meaning": "を制限する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "制限・境界",
+      "variableLayer": "boundary"
+    },
+    {
+      "id": 24,
+      "word": "bear",
+      "meaning": "に耐える；を負う；を産む",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "負担・耐久",
+      "variableLayer": "burden"
+    },
+    {
+      "id": 25,
+      "word": "affect",
+      "meaning": "に影響を及ぼす；を感動させる",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "影響",
+      "variableLayer": "causality"
+    },
+    {
+      "id": 26,
+      "word": "deal",
+      "meaning": "処理する；商う；分配する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "処理・取引",
+      "variableLayer": "handling"
+    },
+    {
+      "id": 27,
+      "word": "avoid",
+      "meaning": "を避ける",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "回避",
+      "variableLayer": "avoidance"
+    },
+    {
+      "id": 28,
+      "word": "relate",
+      "meaning": "を関連づける；関連する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "関連",
+      "variableLayer": "relation"
+    },
+    {
+      "id": 29,
+      "word": "realize",
+      "meaning": "に気づく；を実現する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "認識・実現",
+      "variableLayer": "realization"
+    },
+    {
+      "id": 30,
+      "word": "encourage",
+      "meaning": "を奨励する；を励ます",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "励まし・促進",
+      "variableLayer": "support"
+    },
+    {
+      "id": 31,
+      "word": "compare",
+      "meaning": "を比較する；をたとえる",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "比較",
+      "variableLayer": "comparison"
+    },
+    {
+      "id": 32,
+      "word": "measure",
+      "meaning": "を測る；を評価する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "測定・評価",
+      "variableLayer": "evaluation"
+    },
+    {
+      "id": 33,
+      "word": "exist",
+      "meaning": "存在する；生存する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "存在",
+      "variableLayer": "existence"
+    },
+    {
+      "id": 34,
+      "word": "mark",
+      "meaning": "に印をつける；を示す",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "印・表示",
+      "variableLayer": "sign"
+    },
+    {
+      "id": 35,
+      "word": "challenge",
+      "meaning": "に異議を唱える；挑む",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "挑戦・異議",
+      "variableLayer": "opposition"
+    },
+    {
+      "id": 36,
+      "word": "depend",
+      "meaning": "頼る；次第である",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "依存・条件",
+      "variableLayer": "dependency"
+    },
+    {
+      "id": 37,
+      "word": "object",
+      "meaning": "反対する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "反対",
+      "variableLayer": "opposition"
+    },
+    {
+      "id": 38,
+      "word": "demand",
+      "meaning": "を要求する",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "要求",
+      "variableLayer": "necessity"
+    },
+    {
+      "id": 39,
+      "word": "found",
+      "meaning": "を設立する；を築く",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "設立・基礎",
+      "variableLayer": "foundation"
+    },
+    {
+      "id": 40,
+      "word": "complete",
+      "meaning": "を完成させる，仕上げる",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "完成",
+      "variableLayer": "completion"
+    },
+    {
+      "id": 41,
+      "word": "idea",
+      "meaning": "考え；理解；見解；概念",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "考え・概念",
+      "variableLayer": "abstract"
+    },
+    {
+      "id": 42,
+      "word": "accord",
+      "meaning": "一致；合意，協定",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "一致・合意",
+      "variableLayer": "agreement"
+    },
+    {
+      "id": 43,
+      "word": "company",
+      "meaning": "会社；仲間；一緒にいること",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "組織・同行",
+      "variableLayer": "group"
+    },
+    {
+      "id": 44,
+      "word": "interest",
+      "meaning": "興味；利子；利害",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "関心・利益",
+      "variableLayer": "motivation"
+    },
+    {
+      "id": 45,
+      "word": "research",
+      "meaning": "研究，調査",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "研究・調査",
+      "variableLayer": "inquiry"
+    },
+    {
+      "id": 46,
+      "word": "cause",
+      "meaning": "原因；理由；大義",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "原因",
+      "variableLayer": "causality"
+    },
+    {
+      "id": 47,
+      "word": "reason",
+      "meaning": "理由；根拠；理性",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "理由・理性",
+      "variableLayer": "logic"
+    },
+    {
+      "id": 48,
+      "word": "effect",
+      "meaning": "影響，効果；結果",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "結果・効果",
+      "variableLayer": "causality"
+    },
+    {
+      "id": 49,
+      "word": "influence",
+      "meaning": "影響力",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "影響",
+      "variableLayer": "causality"
+    },
+    {
+      "id": 50,
+      "word": "situation",
+      "meaning": "状況；立場",
+      "part": 1,
+      "section": 1,
+      "level": "Lv1",
+      "concept": "状況",
+      "variableLayer": "context"
+    }
+  ]
+}
